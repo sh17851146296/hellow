@@ -1,0 +1,10 @@
+import numpy as np
+
+
+def main():
+  print("这是我的第一个代码程序")
+
+
+
+if __name__ == "__main__":
+  main()
